@@ -1,0 +1,1300 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>2017 fall Employment Fair Dartmouth</title>
+    <link rel="stylesheet" href="cpdstyle.css" type="text/css"/>
+    <script src="cpdjs.js"></script>
+
+
+</head>
+<body>
+
+<button onclick="topFunction()" id="myBtn">Back to Top</button>
+<div class="navbar">
+    <p class="headlogo">
+        Dartmouth
+    </p>
+    <p class="headwords">
+        2017 Fall Employment Fair
+    </p>
+</div>
+</ul>
+<div class="bnavbar">
+    <a class="left" href="http://sites.dartmouth.edu/cpd/">CPD</a>
+    <a class="left" href="http://dartmouth.edu/">Dartmouth Home</a>
+    <a  class="txt"  class="txt">September 19-20 11:00AM-3:00PM</a>
+    <a class="txt credit">2017 Reseun McClendon </a>
+</div>
+<div id="wrapper">
+    <h2>
+        <div>
+            <input type="text" id="myInputCN" onkeyup="CNSearch()" placeholder="Company Name..e.g Alarm.com">
+            <input type="text" id="myInputJT" onkeyup="JTSearch()" placeholder="Job Types..e.g Finance">
+            <input type="text" id="myInputTA" onkeyup="TASearch()" placeholder="Term Availability..e.g Summer">
+        </div>
+    </h2>
+
+    <h3>
+        <ul id="myUL">
+            <li><a id='a' class="header" id="b">A</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/268820/alarm-com-squarelogo.png> Alarm.com
+                <p class="types"> Software Engineer, Software Engineering Intern, Quality Engineer, Device Engineer, Product Management Associate, Management Development Program Associate, Coding, Technology</p>
+                <p class="types"> Winter, Spring, Summer, Fall</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Software Engineer, Software Engineering Intern, Quality Engineer, Device Engineer, Product Management Associate, Management Development Program Associate </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter, Spring, Summer, Fall</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Alarm.com is the leading cloud-based platform for the smart home. Millions of home and business owners depend on our technology every day to make their properties safer, smarter and more efficient. We make the Smart Home broadly accessible by enabling easy automation and control across a range of connected devices through our single, intuitive user interface.  Alarm.com earned the Top Workplace™ award for its employee culture and the meaningful work we do every day to develop and bring to market new technology that will make millions of people safer and help them use energy more efficiently. We’re seeking those who are passionate about creating change through technology and who want to make a lasting impact on the world around them.  Our solutions are exclusively distributed through a network of authorized service providers. For more information, please visit www.alarm.com.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAi7AAAAJGJlNTZiNDMyLTE0NzEtNGIzYi04OGI3LTY2MTZiMDUwZDAzMA.png> Altamont Capital Partners
+                <p class="types"> Analyst - start Fall 2018, Analyst Intern - Summer of 2018 (for 2019 graduates), Summer Strategy Analyst - Summer of 2018 (for 2020 graduates)</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Analyst - start Fall 2018, Analyst Intern - Summer of 2018 (for 2019 graduates), Summer Strategy Analyst - Summer of 2018 (for 2020 graduates) </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Altamont Capital Partners (“ACP”) is a leading private equity investment firm based in Palo Alto, California. We focus on investing in change-intensive, middle-market private companies. The firm currently manages over $2 billion of capital for a small group of the world’s most sophisticated private equity fund investors and has been growing consistently since inception. </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://www.dreamhire.io/img/db5e90dd-822d-43a1-b6a3-86180065e625> Altman Vilandrie & Company
+                <p class="types"> 2018 Analyst</p>
+                <p class="types"> Winter, Spring, Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> 2018 Analyst </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter, Spring, Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Altman Vilandrie & Company (AV&Co.) is a boutique strategy consulting group that focuses exclusively on the telecommunications, media and related technology and investor sectors. As one of the only pure play communications and media strategy consulting groups in North America, we assist operating companies and financial groups in fast, high-impact, confident decision making. We rely on our deep industry knowledge and advanced analytics to develop tailored recommendations. Not only does this industry-specific philosophy set us apart; more importantly, it allows us to deliver better advice, more quickly.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://docs.appian.com/suite/help/17.2/images/Appian_android_market_app_logo_512.png> Appian Corporation
+                <p class="types"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern, Coding, Business, Technology</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Appian writes software that defines and drives business. Many of the world's largest companies run their businesses on Appian because we are the fastest way to design, build and deploy complex enterprise applications solely through a web-browser with no coding. Our software is commonly deployed 3-5 times faster than any competitor due to our unique architecture which distinguishes itself by being purely web-based, highly scalable, highly secure and more comprehensive in its suite of features. Appian can be deployed in the cloud and on-premise, it can be accesed through a web-client or native applications for the iPhone, Android and Blackberry platforms. At Appian, our success is attributed to our ability to bring out the very best in our employees. As one of the fastest growing BPM technology companies in the world, Appian has grown from four employees to more than 170 worldwide since its founding in 1999. This growth has afforded unlimited opportunities to our employees, who have the potential to impact the organization through exposure and contribution to all aspects of the business -- from technology and professional services to leadership and sales. If you are looking for a rewarding career, where innovation is paramount and possibilities are endless, we encourage you to submit your resume today!</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/33086/applied-predictive-technologies-squarelogo-1469121047305.png> Applied Predictive Technologies
+                <p class="types"> Business Consultant, Software Engineer</p>
+                <p class="types"> Winter, Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Business Consultant, Software Engineer </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter, Summer </div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> APT is a leading cloud-based analytics software company that enables organizations to rapidly and precisely measure cause-and-effect relationships between business initiatives and outcomes to generate economic value. Our intuitive and proprietary Test & Learn® software utilizes sophisticated algorithms to analyze large amounts of data, enabling business leaders to conduct experiments and allowing them to make optimal decisions and implement business initiatives at scale. We also offer products that support decision-making for specific business needs including transaction analysis, space planning, category management and location selection. APT’s client portfolio features some of the world’s best known brands, including Walmart, Starbucks, Coca-Cola, Victoria’s Secret, American Family, SUBWAY, TD Bank, T-Mobile, and others.</div>
+                </div>
+            </li>
+            <li ><a class="flip" class="toggle"> <img class="img-circle" src=https://d1qb2nb5cznatu.cloudfront.net/startups/i/223361-27253a85408de9a094114162ce670867-medium_jpg.jpg?buster=1433003350> Applied Value
+                <p class="types"> Intern Analyst, Full-time Analyst, finance, business</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Intern Analyst, Full-time Analyst </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Applied Value offers world-class management consulting services designed to enhance the value of a client's enterprise. Today, with professionals in three offices around the world, Applied Value provides a comprehensive range of strategy and operations management consulting services. Applied Value has a three-pronged approach to business, combining management consulting, private equity and non-profit. With offices in the US, Europe, and Asia, we combine the in-depth expertise of a global adviser with the focus, attention and flexibility of a boutique consulting firm. </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/774369/artisan-healthcare-consulting-squarelogo-1456244806701.png> Artisan Healthcare Consulting
+                <p class="types"> Associate, business, consulting, healthcare</p>
+                <p class="types"> No Internships Available, full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> No Internships Available, full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Artisan is seeking talented individuals to join our team. The Associate position presents a unique opportunity for a person with a proven academic track record and a strong interest in the biotechnology and pharmaceutical industries to get in on the ground floor of a new and growing organization. Associates will be involved in a wide range of activities during each consulting engagement. Their role may include the following responsibilities: • Build professional expertise in multiple therapeutic and functional areas• Perform secondary research on markets, products, treatment patterns, product pipelines, and worldwide variations in treatment• Perform quantitative analysis, including sophisticated financial modeling and data analysis of large pharmaceutical third party data sets• With guidance, form conclusions, strategies and recommendations that help our clients make informed decisions• Contribute to the presentation of findings to client management Artisan Healthcare Consulting is an Equal Opportunity Employer.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://res.cloudinary.com/crunchbase-production/image/upload/v1468013491/gkws9cstu7ntbn8batbh.jpg> Audax Group Private Equity
+                <p class="types"> Summer Intern Analyst, Private Equity, finance, business</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Summer Intern Analyst, Private Equity </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+            </li>
+
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/353595/avero-squarelogo-1426663951327.png> Avero
+                <p class="types"> Client Operations Associate, Product Marketing Associate, business </p>
+                <p class="types"> Summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Client Operations Associate, Product Marketing Associate, business </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Avero is the leading technology partner to the hospitality industry providing web-based and mobile business intelligence and analytical applications for food & beverage operators. We help restaurateurs and finance operators drive revenue, improve profitability, provide a superior guest experience and outperform the competition. Avero’s applications can be integrated seamlessly with any POS. We process more than $33 billion in annual F&B transactions and have over 37,000 users in 68 countries, including many of the most renowned restaurants, casinos and hotels in the world. Headquartered in New York City with offices in Dallas, Las Vegas, Chicago, Napa and Singapore, the company is led by former hospitality professionals including CFOs, chefs, owners, sommeliers and operators. </div>
+                </div>
+            </li>
+            <li><a class="header" id="b" >B</a></li>
+            <li ><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAA0DAAAAJDM5YjM4NDg5LTYzN2MtNDc4MC05Yzk0LWNmZTc5N2U3Mjg1ZQ.png> Bain & Company
+                <p class="types"> Associate Consultant, Associate Consultant Internship, consulting, business</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant, Associate Consultant Internship </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> (1) Founded in 1973 on the principle that clients should get results, not just reports, from their consultants, Bain & Company has helped industry leaders, emerging businesses, and private equity firms build ongoing value.
+                        The core of our business is building business success stories. We do this alongside our corporate, private equity and venture clients, across a wide range of industries and geographies. The diversity and pace of learning at Bain are truly unique. Our client mix is diverse, allowing you to build general manager skills working with a Fortune 500 client or a small company at the same time. No two days are the same, and they all present you with different challenges.
+                        Leaders in every field of business have built the foundations of their careers at Bain. Whatever your career goals, you will discover limitless opportunity for learning and career development in our results-oriented, innovation-rich culture.
+                        Bain is helping make companies more valuable.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/390979/the-beacon-group-squarelogo-1399571883850.png> Beacon Group
+                <p class="types"> Consultant business</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Who We Are: The Beacon Group is a strategy consulting firm with a strict focus on providing our clients with actionable growth strategies and tactics. With a commitment to achieving top-line growth for our clients, our deliverables are designed to have a direct impact on their profitability. For over a decade we have carved a niche as a premier counselor on issues of innovation, disruption, and international, adjacent, and emerging market growth for the Fortune 500. We complement classic, commonly used growth assessments with a variety of Beacon’s proprietary frameworks and methodologies to objectively assess the opportunities our clients face.
+                        Our firm works within several major industries across four practice areas:
+                        −       Healthcare & Life Sciences
+                        −       Aerospace, Defense & Government
+                        −       Technology
+                        −       Industrials & Energy
+                        −       Expert Access Services
+                        The Beacon Group is a dynamic firm comprised of highly driven and multifaceted individuals. We have attracted talent from some of the nation’s top-ranked universities, colleges, and graduate schools where our consultants have developed rich backgrounds in the liberal arts, technology, science, and business fields. We are a culturally diverse firm and speak 15 languages spanning countries on five continents and are always interested in learning from and engaging with others.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAkPAAAAJDc5YTBjMGEwLWUyMjEtNDFmZS04ZmNlLWEyOTg0YjlmNDJjNg.png> Black Duck Software
+                <p class="types"> Software, Coding, Business, Technology</p>
+                <p class="types"> Spring, Summer, Fall </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Software</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Spring, Summer, Fall</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Organizations worldwide use Black Duck Software’s industry-leading products to secure and manage open source software, eliminating the pain related to security vulnerabilities, compliance and operational risk. Black Duck is headquartered in Burlington, MA, and has offices in San Jose, CA, London, Belfast, Frankfurt, Hong Kong, Tokyo, Vancouver, Seoul and Beijing. For more information, visit www.blackducksoftware.com</div>
+                </div>
+            </li>
+            <li><a class="header" id="c">C</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/603213757737611266/Kqb1qNwn.png> C&S Wholesale Groceries
+                <p class="types"> Internships, Leadership Development Program, Staff Accountant, Associate Financial Analyst, Associate Merchandising Analyst, Associate Buyer</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes">Internships, Leadership Development Program, Staff Accountant, Associate Financial Analyst, Associate Merchandising Analyst, Associate Buyer</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Based in Keene, NH, we are the largest wholesale grocery supply company in the U.S. and the industry leader in supply chain innovation. Founded in 1918 as a supplier to independent grocery stores, C&S now services customers of all sizes, including independent supermarkets, chain stores, military bases, and institutions with over 150,000 products.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://upload.wikimedia.org/wikipedia/en/2/20/CapitalGroup_Company_Logo.png> Capital Group
+                <p class="types"> business finance</p>
+                <p class="types">Summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> The Associates Program (TAP) Associate
+
+                        Your first job is all about learning what you actually want to do now that you’re no longer majoring in Philosophy or Chemistry or Political Science, but it’s also all about learning who you are. What excites you, inspires you, drives you, challenges you, even changes you. The Associates Program (TAP) at Capital Group doesn’t just help you decide what you want to do, it helps figure out who you want to be. We let you try different jobs, in different departments and different places all over the world to figure out what’s right for you. All majors welcome.
+
+                        TAP is a highly selective two-year global rotational program at Capital Group, one of the world’s leading investment management firms.
+
+                        TAP offers you the chance to:
+
+                        • Try different jobs in different departments through six four-month assignments. The best way to know if you're more into Marketing, Research, Sales, Strategy, or Operations is to experience them first hand.
+                        • Get personalized career coaching and professional development, in-house MBA-level courses and training workshops. We get better when you get better.
+                        • Work at a nonprofit of your choice for four months while getting paid by Capital Group. The best of both worlds.
+                        • Build relationships with business leaders across different departments. You don't just make connections, you make friends.
+
+                        Learn more at thecapitalgroup.com/tap. </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Capital Group — one of the world’s largest and most trusted investment management companies — has more than 7,500 associates who make our clients their first priority every day. When we do our job right, millions of investors around the world fulfill their dreams and financial goals.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://upload.wikimedia.org/wikipedia/en/thumb/d/de/CardiganMountainSchoolSeal.jpg/250px-CardiganMountainSchoolSeal.jpg> Cardigan Mountain School
+                <p class="types"> Summer Teaching Positions Summer Teaching Internships (Paid) education</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Summer Teaching Positions, Summer Teaching Internships (Paid)</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Cardigan Mountain School Summer Session combines academic review and enrichment with all of the recreation and fun of a traditional summer camp for boys and girls in grades 3-9.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://s3-media1.fl.yelpcdn.com/bphoto/q6xTphHOsY4wg-SQykJkNA/ls.jpg> Carney Sandoe & Associates
+                <p class="types"> We serve client schools all over the U.S. and abroad. Each year, we have hundreds of open K-12 teaching, administrative, and coaching positions available.</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> We serve client schools all over the U.S. and abroad. Each year, we have hundreds of open K-12 teaching, administrative, and coaching positions available.</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        Are you a future teacher looking for your first teaching job? Have you thought about teaching after graduation, but you’re not sure where to start? Or, are you looking for a way to continue your passion for your area of study?
+                        If you answered “yes” to any of these questions, Carney, Sandoe & Associates wants to talk to you. We’re an educational recruitment firm that places teachers and administrators in K-12 private, independent, college-prep schools across the nation and worldwide.
+                        Whether you’re looking for an innovative teaching experience or you’re thinking about how to translate your love of a subject area into a rich classroom experience for K-12 students, you should be exploring the option of working at an independent school. Ranging in size, location, and mission, independent schools give you the opportunity to make a difference as a teacher, coach, and mentor.
+                        We have placed over 32,000 teachers and administrators at independent schools since 1977. Each year, we have thousands of rewarding and exciting teaching positions available in all primary and secondary subjects—teaching certification is not required. Our personal and professional service is free for job-seekers.
+                        Discover how an independent school could be the right place for you to start your teaching career. Join us at our info session, and schedule an on-campus interview with us to learn more.
+                    </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/601259/cbpartners-squarelogo.png> CBPartners
+                <p class="types"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern, Coding, Business, Technology</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> CBPartners is a global consultancy committed to providing unparalleled strategic support to pharmaceutical companies, biopharmaceutical companies, medical device companies, and government health authorities. The firm has five practice areas: Pricing & Market Access, Value Demonstration, Portfolio Optimisation, Commercial Planning, and Government Policy Advisory. The firm is headquartered in New York City, with offices in San Francisco, CA, London, England, and Shanghai, China.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://upload.wikimedia.org/wikipedia/en/f/f4/Cityyear_logo.png> City Year
+                <p class="types"> City Year AmeriCorps Member</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> City Year AmeriCorps Member </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        At City Year, we believe education has the power to help every child reach his or her potential.  However, in high-poverty communities there are external factors and obstacles students are faced with every day that can interfere with their ability to both get to school and be ready and able to learn.
+
+                        City Year works to bridge the gap in high-poverty communities between the support that students actually need and what their schools are designed and resourced to provide.  In doing so, we’re helping to increase graduation rates across the country and changing lives of the students we serve.
+
+                        At City Year’s 28 locations across the United States and two international affiliates, highly trained young adults, our AmeriCorps Members, work full-time in schools for 11 months providing individualized supports to at-risk students.  We partner with schools and districts to identify students who are at risk of not graduating on time with their peers, and provide them with extra academic, emotional and social support an skills that they need to be successful for college and a career.
+                    </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAiyAAAAJGYzYjk1YzMzLTA0M2UtNGYxZS04Y2Q2LTNmMzAzOGYwMTdkZg.png> Clarion Healthcare, LLC
+                <p class="types"> Associate Consultant, business</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Located in Boston, Clarion Healthcare, LLC is a boutique consultancy focused in the life sciences industry. Led by four partners with backgrounds at leading strategy consultancies and pharmaceutical organizations, Clarion works closely with clients to address critical strategic and organizational challenges in the biopharmaceutical and device/diagnostics arenas. Clarion’s partners and project teams work collaboratively with clients throughout the course of its projects. Clarion’s ability to frame critical issues, conduct rigorous analysis, and develop fact-based recommendations – all while engaging the organization and building buy-in and commitment – are consistently recognized by our senior executive clients. As a result of our collaborative approach, Clarion is known for being able to successfully address its client’s most critical challenges and adding lasting value.
+                    </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/257639/clearview-healthcare-partners-squarelogo.png> Clearview Healthcare Partners
+                <p class="types"> Summer Analyst Analyst Consultant consulting</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Summer Analyst Analyst Consultant </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> ClearView Healthcare Partners is a boutique consulting firm that provides premier strategic consulting services to life science companies and investors. </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/679345473518444544/ePrwuead.png> Cogo Labs
+                <p class="types"> Quantitative Data Analyst, Software Engineer, tech, technology </p>
+                <p class="types"> Summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Quantitative Data Analyst, Software Engineer </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> At Cogo Labs, we build startup companies from scratch.We're not venture capitalists -- we're a collaborative team of engineers, analysts, and entrepreneurs using innovative tools, big data, and intellectual curiosity to build a platform that spins up successful online businesses, fast. </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://tbcdn.talentbrew.com/company/364/v1_0/img/cvsiconlogo.jpg> CVS Health
+            </a>
+                <div>
+                    <p class="types"> health, pharmacy, chemistry</p>
+                    <p class="types"> Summer </p>
+                    <div id="panel">
+                        <div class="headers"> Available Terms</div>
+                        <div class="details"> Summer</div>
+                    </div>
+                </div>
+            </li>
+            <li><a class="header" id="d">D</a></li>
+            <li><a class="flip"><img  src=https://media.glassdoor.com/sqll/351722/d-e-shaw-india-squarelogo-1387323606305.png> D.E. Shaw & Co.</a>
+                <p class="types"> Associate, business, consulting, healthcare</p>
+                <p class="types"> No Internships Available, full-time</p>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> No Internships Available, full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Artisan is seeking talented individuals to join our team. The Associate position presents a unique opportunity for a person with a proven academic track record and a strong interest in the biotechnology and pharmaceutical industries to get in on the ground floor of a new and growing organization. Associates will be involved in a wide range of activities during each consulting engagement. Their role may include the following responsibilities: • Build professional expertise in multiple therapeutic and functional areas• Perform secondary research on markets, products, treatment patterns, product pipelines, and worldwide variations in treatment• Perform quantitative analysis, including sophisticated financial modeling and data analysis of large pharmaceutical third party data sets• With guidance, form conclusions, strategies and recommendations that help our clients make informed decisions• Contribute to the presentation of findings to client management Artisan Healthcare Consulting is an Equal Opportunity Employer.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/249062/dc-energy-squarelogo-1380113313415.png> DC Energy
+                <p class="types"> Investment Analyst, finance, business</p>
+                <p class="types"> full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Investment Analyst </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        DC Energy is a proprietary trading firm that invests in the energy markets.  DC Energy was founded in 2002 and is based in the Washington DC metropolitan area.
+
+                        DC Energy’s competitive advantage is based upon a rigorous, quantitative analytical approach.  Our team comprises exceptionally bright problem solvers who work together cohesively as a team to understand the fundamental value of energy commodities and identify opportunities for trading and investment.  Together we have developed robust, proprietary economic frameworks enabling us to take positions across a diverse range of financial instruments and strike a prudent and efficient balance between risk and return.
+                    </div>
+                </div>
+            </li>
+            <li><a class="flip"><img class="img-circle" src=https://media.glassdoor.com/sql/14626/dean-and-company-squarelogo.png> Dean &Company
+                <p class="types"> Analyst</p>
+                <p class="types"> Summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Analyst</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Dean & Company is a highly quantitative, boutique strategy consulting firm with a unique mix of both traditional business strategy development and a range of investment advisory work.  We work with senior executives and use a fact-based, analytical approach to improve performance.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/879988626716753921/JhHOuFfd.jpg> DigitasLBi
+                <p class="types"> Analyst, strategy, media</p>
+                <p class="types">  </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> We’re searching for an Analyst in Strategy & Analysis who can discover new paths for growth by uncovering new segments, projects and channels. You’ll develop relationship marketing strategies as well as collaborate with creative, media, marketing and technology teams to build robust marketing approaches for clients.
+
+                        Tasks and responsibilities include:
+                        • Providing integrated marketing analytical solutions across customers and channels to improve client decision-making
+                        • Conducting primary and secondary research on best practices and market trends
+                        • Designing and conducting analysis, interpreting results and synthesizing recommendations
+                        • Preparing analysis and tracking of marketplace, technology and consumer demographic trends both within and across multiple industries
+                        • Achieving and maintaining fluency in relevant interactive technologies
+                        • Developing client deliverables (e.g. presentations, performance dashboards)
+                        • Building a grasp of business strategy issues while honing time management and communication with peers and managers
+                    </div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> DigitasLBi is a global marketing and technology agency that transforms businesses for the digital age. We help companies decide What’s Next … and then we take them there. Across 40 offices in 25 countries, we have more than 6,000 digital experts working to enrich people’s lives via our unique blend of strategy, creativity, media, and technology.
+                        Our skills and passions span insight, brand building, content creation and distribution, as well as the ability to help brands embrace the creative and technological change that is revolutionizing their businesses. We act as strategic partner to some of the world’s most exciting companies across a wide range of industries. There are many things that make DigitasLBi unique, but if we had to choose one it would be our ability to connect data with storytelling to help make brands special, shareable, and ultimately more valuable wherever, whenever, and however people engage with them.</div>
+                </div>
+            </li>
+            <li><a class="header" id="e">E</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/466688236484427776/ljqwHQga_400x400.jpeg> Edgeworth Economics
+                <p class="types"> finance, business, analyst, economics</p>
+                <p class="types"> Winter, Spring, Summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes">Analyst</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter, Spring, Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Edgeworth Economics is an economic, financial, and quantitative consulting firm that provides economic analysis and expert testimony for clients facing complex litigations involving antitrust, mergers and acquisitions, class certification, labor, intellectual property, transfer pricing, and complex commercial damages. Our clients include law firms, Fortune 500 companies, and government agencies.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://yt3.ggpht.com/-Y9NJWBx4IpI/AAAAAAAAAAI/AAAAAAAAAAA/NFfECsu7B4I/s900-c-k-no-mo-rj-c0xffffff/photo.jpg> EF Education First
+                <p class="types"> "EF360 Global Management Trainee,EF360 Tech,Recruiting & Brand Marketing Internship , Product Development & Quality Internship, EF360 Summer Internship, Developer Internship, PR & Brand Communications Internship Editorial Internship (Hong Kong), Multimedia Internship (Hong Kong)" technology, software, education</p>
+                <p class="types"> Winter, Spring, Summer, Fall</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> EF360 Global Management Trainee,EF360 Tech,Recruiting & Brand Marketing Internship , Product Development & Quality Internship, EF360 Summer Internship, Developer Internship, PR & Brand Communications Internship Editorial Internship (Hong Kong), Multimedia Internship (Hong Kong) </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter, Spring, Summer, Fall</div>
+                </div>
+            </li>
+            <li><a class="header" id="f">F</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://yt3.ggpht.com/-tj3vCKjV1UE/AAAAAAAAAAI/AAAAAAAAAAA/FPzA0n8zihA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg> Fidelity Investments - FBC
+                <p class="types"> Consulting Analyst, business, finance</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Consulting Analyst </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        Fidelity Consulting is an 85 person consulting group  within Fidelity Investments. The group’s mission is to partner with senior  Fidelity leadership teams (e.g. Office of the Chairman, Management Committee,  Business Unit Presidents) as a trusted advisor to solve their most critical  business issues. The primary areas of focus for the consulting practice are  strategy development and operational improvement. Typical engagements involve  identifying and launching growth initiatives, managing or facilitating  cross-enterprise initiatives, or addressing difficult operational issues.  In addition to its core mission of providing  consulting services, FC develops strong leadership talent to fill critical  management positions across the firm. Learn  more by visiting the FC website:  https://jobs.fidelity.com/career-areas/corporate-services/fidelity-business-consulting.html</div>
+                </div>
+            </li>
+            <li><a class="header" id="g">G</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://glg.it/assets/images/glg-social-logo.jpg> GLG
+                <p class="types"> Coding, Business, Technology, finance, learning, education</p>
+                <p class="types"> Full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> GLG is seeking recent graduates interested in joining our 2018 Client Service Associate Program in Austin, Texas. Interested candidates should apply online at www.glg.it/careers/austin to the Senior Associate Program or to GLG's posting on Dartboard for on-campus interviews.</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> GLG is a technology-enabled learning platform that connects top professionals with experts.More than 1,400 companies use GLG to help solve complex strategic and operational challenges, test hypotheses, gain market feedback, and seek mentorship, all within our rigorous compliance framework.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Goldman_Sachs.svg/1200px-Goldman_Sachs.svg.png> Goldman, Sachs & CO.
+                <p class="types"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern, Coding, Business, Technology analyst finance</p>
+                <p class="types"> Summer 2018 Internships </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Summer 2018 Internships</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> The Goldman Sachs Group, Inc. is a leading global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments and individuals. Founded in 1869, the firm is headquartered in New York and maintains offices in all major financial centers around the world.</div>
+                </div>
+            </li>
+            <li><a class="header" id="h">H</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/378800000661583695/1159c8185598a92417dff26fc1811d37.jpeg> Health Advances LLC
+                <p class="types"> Healthcare, science, clinic</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Health Advances is a strategy consulting firm that focuses exclusively on the healthcare industry. We are scientists, clinicians, researchers, and business professionals who share a passion for supporting healthcare product commercialization and driving adoption of innovations that improve healthcare. We help clients realize growth opportunities worldwide for healthcare technologies, products and services. Our consultants partner with senior executives and investors on their highest-stakes strategic decisions.  
+                        Health Advances employs over 140 full-time professionals in full-service offices in Boston, San Francisco, and Zug, Switzerland. These offices perform analyses worldwide; nearly one-third of Health Advances’ projects are ex-US. Health Advances has performed studies in over 70 different countries.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=http://www.theretailconnection.net/uploaded/client/768737972388295.png> Hillstone Restaurant Group
+                <p class="types"> Training Program in Restaurant Operations and General Management Management Internship Program business</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Training Program in Restaurant Operations and General Management, Management Internship Program </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        Hillstone Restaurant Group is a privately-held collection of upscale restaurants with 45+ locations in major cities across the country. Some of our more well-known operations are Houston’s, Hillstone, R+D Kitchen, Bandera, East Hampton Grill, South Beverly Grill, Honor Bar, Palm Beach Grill, and White House Tavern. Highly selective when considering markets, recent restaurant openings have included Montecito, CA, Bal Harbour, FL, Aspen, CO, and Yountville, CA. To learn more, visit us at www.hillstone.com, or read this recent profile in Bon Appetit magazine: http://www.hillstone.com/press/bonappetit
+                         
+                        Recruiting for:
+                        Management Training Program OR Culinary Management Training Program
+                        Known for attracting exceptional people who are passionate about service and the culinary arts, our performance-driven environment prepares you to build a rewarding career in hospitality. Your first exposure is an immersive 4 + months of rotational assignments in one of our restaurants. Because our managers come from all backgrounds and industries, you are not expected to be an expert on day one, but will be given many opportunities within a short time to show your strengths. From professional development workshops, to informal mentoring and guidance from your colleagues, we are creating well-rounded restaurateurs who are also savvy businesspeople. Outstanding graduates of our training program can earn the General Manager title in just a few years, and many General Managers in our company earn over $250K per year. Training occurs in Los Angeles, Napa, San Francisco, Washington D.C., Dallas, Phoenix, and New York City, with subsequent assignments in markets across the country, making relocation flexibility a must for consideration.
+                         
+                        Our management team search is focused on strong leaders who are dedicated to consistently driving high standards and achieving service excellence. Those who enjoy a small-company-feel, are adept at building relationships, and have a single-minded focus on delivering quality should apply.
+                         
+                        Recruiting for:
+                        Management Internship
+                        Typically reserved for rising seniors, students selected to participate in our Management Internship Program spend 12 weeks in a rotational program within a high-quality restaurant environment. Interns are given opportunities to master many service and culinary roles (have you rolled sushi before?) and understand the manager's impact on the business.  The best apply their studies to our business and projects as they develop their culinary and management skills.
+                         
+                        Management Interns are often involved in hiring, staff supervision, vendor relations, financial analysis, etc. and work 50 hours per week. Compensation $900 per week.
+                        Email your résumé to Keith.Clancy@Hillstone.com.</div>
+                </div>
+            </li>
+            <li><a class="header" id="i">I</a></li>
+            <li><a class="flip"><img class="img-circle" src=https://media.glassdoor.com/sqll/688912/idinsight-squarelogo-1486010204970.png> IDinsight
+                <p class="types"> Associate, business, consulting</p>
+                <p class="types"> summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> IDinsight is an international development consulting organization that helps policymakers make socially impactful decisions using rigorous evidence. We tailor a wide range of analytical and quantitative tools to help our clients design better policy. Our services include decision-focused experimental evaluation methodologies (e.g. tailored randomized controlled trials), performance management services, policy design consulting, and implementation support. Founded by graduates of the Harvard Business and Kennedy Schools, IDinsight works across Asia and Africa, and is rapidly expanding into new geographies and sectors.</div>
+                </div>
+            </li>
+            <li><a class="flip"><img class="img-circle" src=https://d1qb2nb5cznatu.cloudfront.net/startups/i/49698-bff0095085d558d162960e9ab0a106da-medium_jpg.jpg?buster=1429297164> Innosight
+                <p class="types"> Analyst, business, consulting, healthcare</p>
+                <p class="types"> Summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Analyst</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Innosight works at the crossroads of strategic management consulting and the creative, entrepreneurial field of innovation. As a member of the Innosight team, you'll work with Fortune 500 companies in diverse industries around the world. You’ll help design and build new businesses, products, and services; identify and create new markets; and work with companies to develop their own innovation capabilities.
+                        We are the only consulting firm      100% focused on growth through innovation. We are the leading      practitioners of disruptive innovation, building on the work of our      co-founder, Harvard Business School professor Clay Christensen.  We offer the opportunity to work      on projects tackling high-value problems with the potential to transform      businesses and even improve society. We focus on practical solutions      powered by ideas that have often never been tried before.  Our clients include some of the      leading companies in the world; we've worked with more than one-third of      the Fortune 50. Our work environment emphasizes the exchange of ideas,      continuous learning, and collaboration. And our smaller team structure      offers exposure to senior-level executives early in your consulting      career. </div>
+                </div>
+            </li>
+            <li><a class="flip"><img class="img-circle" src=https://media.glassdoor.com/sqll/245065/investor-group-services-squarelogo-1413226039715.png> Investor Group Services (IGS)
+                <p class="types"> Associate, business, consulting, healthcare</p>
+                <p class="types"> Summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        Investor Group Services (IGS) is a consulting firm that works with private equity firms and strategic acquirers to assess their investment opportunities across a broad array of industries. We are skilled in understanding markets and identifying the key analysis required to help make investment decisions. IGS is a small, entrepreneurial firm offering collegial work environment that provides opportunities for rapid development of new skills and advancement.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/18355/irving-oil-corporation-squarelogo-1424418689467.png>  Irving Oil
+                <p class="types">  Associate Solution Engineer, Associate IT Engineer, Quality Engineer, Quality Engineer - Intern, Business, Technology</p>
+                <p class="types"> Winter</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Irving Oil was founded in 1924 and is an international refining and marketing company with a history of long-term partnerships and relationships. Named one of Canada’s Top 100 Employers in 2016, Irving Oil operates Canada’s largest refinery, in Saint John, New Brunswick, which is located 65 miles north of the US border and has reached production rates in excess of 320,000 barrels per day. It also operates Ireland’s only refinery, located at Whitegate in southern Ireland, with a capacity of 75,000 barrels per day. With over 900 fueling locations, operations from ten distribution terminals, and a delivery fleet of tractor-trailers, Irving Oil serves wholesale, commercial, and retail customers in Atlantic Canada, Quebec, and New England. Learn more at facebook.com/irvingoil or www.irvingoil.com.</div>
+                </div>
+            </li>
+            <li><a class="header" id="j">J</a></li>
+            <li><a class="flip"> <img class="img-circle" src=http://pacificretail.com/wp-content/uploads/2016/05/jpm.jpg> J.P. Morgan Asset Management
+                <p class="types"> finance, analyst, Business</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Finance analyst </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> JPMorgan Chase (NYSE: JPM) is one of the oldest financial institutions in the United States. With a history dating back over 200 years, here's where we stand today:  We are a leading global financial services firm with assets of $2.4 trillion. We operate in more than 60 countries. We have over 240,000 employees. We serve millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients.  We are a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Our stock is a component of the Dow Jones Industrial Average.</div>
+                </div>
+            </li>
+            <li><a class="flip"><img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAaKAAAAJDAxMDkwMzU5LTk5ZDAtNDg3OS05NDQyLWM0Y2NlYjZhZTRlYw.png> Johns Hopkins Applied Physics Lboratory (APL)
+                <p class="types"> science, physics, applied, math, engineering, research </p>
+                <p class="types">Spring, Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Spring, Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> The Johns Hopkins University Applied Physics Laboratory (APL) provides critical contributions to critical challenges with systems  engineering and integration, technology research and development, and  analysis. Our scientists, engineers, and analysts serve as trusted  advisors and technical experts to the government, ensuring the  reliability of complex technologies that safeguard our nation’s security  and advance the frontiers of space. We also maintain independent  research and development programs that pioneer and explore emerging  technologies and concepts to address future national priorities.</div>
+                </div>
+            </li>
+            <li><a class="header" id="k">K</a></li>
+
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/media/AAEAAQAAAAAAAAVRAAAAJDBhZjQ5ZDczLTAxNzAtNDhiZC04OTgwLWQzY2M0ZjllNjdiOQ.png>Kepler Cannon
+                <p class="types"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern, Coding, Business, Technology</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> ASSOCIATE CONSULTANT: An Associate Consultant's primary role is to support client projects through research, in-depth analysis, and insightful problem solving. As a core member of the project team, you will interact with clients on a day-to-day basis to help them transform their businesses. Below are some examples of day-to-day functions an Associate Consultant should expect to perform:
+
+                        · Conduct in-depth industry or company level financial analysis and market / industry research
+                        · Leverage new problem solving techniques to build insightful new strategies
+                        · Gather, validate, and analyze critical data
+                        · Construct detailed quantitative models to uncover insights
+                        · Interview (in person and over the phone) clients and industry experts
+                        · Create concise, easy to understand, and impactful written end products
+                        · Collaborate with other consultants and client team members to deliver outstanding work products</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Kepler Cannon is a boutique strategy consulting firm with offices in New York City, New Delhi, and London. We foster a dynamic and collaborative environment, where the work is both challenging and stimulating. Our uniquely diverse team members bring multi-faceted perspectives to the table to create a highly energizing culture. At Kepler Cannon, we combine traditional proven methods of problem solving with advanced analytics to solve clients' previously intractable problems. The challenges our clients face are limitless so our remit is wide and varied, delivering both strategy and execution within 8 primary areas of expertise: •	Big Data & Advanced Analytics•	Digital & Technology•	Customer Engagement•	Efficiency & Monetization•	Sales Effectiveness•	Growth•	Strategy & Transformation•	Third Party Management We are growing rapidly so we are always on the lookout for superstars. Be part of a tight-knit team with direct exposure to senior partners and clients, where you will be able to develop strong problem solving skills and travel the world to advise global 1000 clients.</div>
+                </div>
+            </li>
+            <li><a class="header" id="l">L</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAmfAAAAJDRkNmZiMTUyLWVhMDEtNDk4NS1hMDRmLWE4ZTIxOTY2OTYzYg.png> L.E.K. Consulting
+                <p class="types"> Associate, consulting, business finance</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=http://www.radegen.com/wp-content/uploads/sites/38/2015/01/liberty-mutual.jpg> Liberty Mutual
+                <p class="types"> technology, math coding, software, business, marketing, analytics, analyst, finance, statistics</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> The Analyst Development Program is a 12-15 month program with 3 months of upfront training followed by three 3-month rotations. You will enhance your critical thinking and analytical abilities through training in data mining, pricing strategy, data analytics, business case development, and presentation skills. You will be able to apply these new skills to various rotations across multiple departments. Each rotation provides a high-level understanding of how data analytics is used within the insurance industry, and provides you with the opportunity to contribute through challenging analytic work. While on rotation, you will continue to receive mentoring and training designed to drive your professional development, all while having access to leadership teams throughout the organization. The program offers a well-developed career path, with successful candidates receiving competitive roles upon graduation.
+                        Benefits include:
+                        •Robust on-the-job training to enhance your industry knowledge, business acumen and technical skills
+                        •Develop analytical talents through various quantitative and qualitative methods
+                        •Exposure to multiple groups and senior leaders
+                        •Project work of increasing responsibility, both individually and as part of a team, to build experience and skills at a pace matched to your demonstrated ability
+                        •Mentor and buddy programs
+                        Requirements:
+                        •Target Degrees: MIS, mathematics, actuarial science, statistics, economics, marketing analytics, finance, business, or related fields
+                        •Minimum GPA: 3.0
+                        •0-2 years of professional experience
+                        •Key qualifications: Leadership, quantitative and analytical skills, strong interpersonal, written and verbal skills, technical skills (Excel, SAS, SQL).</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        ​​​​​​​​​​​​​​​​​​​​​Liberty Mutual Insurance helps people preserve and protect what they earn, build, own, and cherish. Keeping this promise means we are there when our customers need us most. Throughout our operations around the world, we are committed to providing insurance products and services to meet the needs of individuals, families, and businesses; offering a diverse and dynamic work environment for our employees; and supporting our communities.</div>
+                </div>
+            </li>
+            <li><a class="header" id="m">M</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/129/13b/144d4fd.png> Mars & Co Consulting
+                <p class="types"> Associate Consultant, business, finance </p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Company Description:
+                        Mars & Co is a unique global player in the Strategy Consulting industry:
+                        ·         Over the firm’s nearly 40 year history, Mars & Co has provided customized strategic and operational expertise to many of the world’s largest and most recognized corporations on an industry exclusive basis (i.e., we only work for one client per industry).
+                        ·         Composed of over 200 consultants globally, our consultants have the opportunity to work across a broad variety of industries, business functions and geographies while benefiting from exceptional amounts of high-level client exposure and interaction.
+                        From our seven offices in North America, Europe and Asia, we continue to expand our roster of prestigious clients and develop some of the finest minds in the consulting industry. At Mars & Co, you immediately get the opportunity to help provide high impact strategic and operational assistance to an elite group of predominately Fortune 100-sized companies or their international equivalents. We have a hands-on learning environment that provides you with practical training and teaches you valuable problem-solving and business skills which translate into any business environment. At Mars & Co, individual initiative, creativity and analytical rigor are all highly prized and well rewarded.</div>
+                </div>
+            </li>
+            <li><a class="flip"><img class="img-circle" src=https://pbs.twimg.com/profile_images/3150090970/2f0db1b76ef44aa4bd6d0d3c8af6ee50_400x400.png> Match Education
+                <p class="types"> education</p>
+                <p class="types"> No Internships Available, full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Match Corps education</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> No Internships Available, full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Match Education is an engine of discovery and applied innovation in education.  We operate high-performing urban public charter schools, a unique graduate school of education that trains teachers for high-poverty schools, and a hybrid college and jobs program that seeks unprecedented degree completion rates and employment outcomes.  Out of this applied work, we refine, validate empirically, and eventually disseminate new ideas and practices on core questions in education reform.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://deltafonts.com/wp-content/uploads/McKinsey-Company.png> McKinsey & Company
+                <p class="types"> Associate Consultant, analyst consultant, consulting, finance, Business</p>
+                <p class="types"> Winter, Summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant, Analyst consultant </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter, Summer</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAA0KAAAAJDFmNzkzZGYzLTYyZWEtNDAzMC05YzE3LTkyMDk3YjhmNjE2OQ.png> Moody's Analytics
+                <p class="types"> analytics, analsyt, finance, Business</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Analyst </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.glassdoor.com/sqll/14349/mts-health-partners-squarelogo-1441975600528.png> MTS Health Partners, L.P.
+                <p class="types"> Full-time investment banking analyst, full-time investment banking associate, finance, business</p>
+                <p class="types"> Winter, Spring, Summer, Fall </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Full-time investment banking analyst, full-time investment banking associate</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter, Spring, Summer, Fall</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> MTS Health Partners, L.P. is the preeminent financial services firm dedicated solely to the healthcare industry, providing strategic advisory services related to mergers & acquisitions, divestitures, restructuring, and equity and structured products capital markets transactions for companies in the global healthcare industry.  MTS focuses on the following subsectors of the healthcare industry: healthcare services, pharmaceuticals, biotechnology, generics, medical devices and diagnostics. Founded in 2000, MTS is distinguished by its dedicated healthcare industry focus, senior level hands-on deal execution, and the unique perspective and network MTS brings given the deep experience of its senior professional team - all without the conflicts of interest that most banks face. The U.S. and global healthcare industry is currently in the midst of unprecedented growth and change in a volatile economic environment; MTS plays a crucial role in advising our clients as they face critical strategic and financial decisions during these times. Uniquely, MTS’ business model focuses on alignment with our clients, building long-term relationships and engineering and executing the “right” transaction for our client. We specialize in executing complex transactions (e.g. mergers, restructurings, privately negotiated equity, structured debt, hybrid financings) where our “skill” as bankers is more important than the “scale” of an organization, such as in widely syndicated transactions (e.g. follow-on equity offerings, senior debt offerings). However, when a situation calls for a hybrid approach of private negotiation and public syndication, we also have the ability, as a registered broker-deal, and the flexibility to call on our experience and relationships to orchestrate the appropriate deal.  Whereas many banks are divided into industry coverage groups and product groups, the same deal team at MTS originates and executes the transaction, thus maintaining control of every aspect of advice, strategy, and execution and avoiding the conflicts of interest seen at other advisory firms. MTS Health Partners, L.P. is a fast-paced, collegial environment of approximately 35 banking professionals and 50 members overall with a tight-knit culture focused on professional growth.  Anchored by the foundation of a well-run partnership, junior team members have unparalleled access to Senior Bankers and are rewarded with responsibilities commensurate with demonstrated skill and professional maturity.  MTS promotes an environment based on teamwork, with an emphasis on entrepreneurship, accountability and innovation. MTS is dedicated to promoting from within the firm and developing each team member’s career. While we hope that each Associate will grow with MTS and eventually become a Senior Banker, the experience as an Investment Banking Associate at MTS will be excellent preparation for a career in industry, not-for profits, consulting, or other areas in finance.</div>
+                </div>
+            </li>
+            <li><a class="header" id="n">N</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/651419105753300992/1ydit1Gj.jpg> Northbridge Group (THE)
+                <p class="types"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern, Coding, Business, Technology</p>
+                <p class="types"> full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Analysts are responsible for performing a broad range of research and analyses – financial, economic, and market – under the supervision of associates and partners of the Firm. With experience, analysts take on more responsibility for structuring analyses, and assisting with client presentations and business development efforts.
+
+                        NorthBridge is a meritocracy – motivation and performance are rewarded through greater responsibility and increased compensation. Successful analysts are promoted to the senior analyst position after 2-3 years, and exceptional senior analysts are considered for the associate position approximately two years thereafter. The NorthBridge analyst program provides valuable skills and experience and has historically provided the opportunity to attend the world’s top graduate schools. </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        The NorthBridge Group is a leading economic and strategic consulting firm serving the electricity and natural gas industries, including both regulated utilities and other companies active in the competitive wholesale and retail markets.  Founded in 1992, we have approximately 25 consultants who serve a national client base from our office located just outside Boston in Concord, Massachusetts.
+
+                        We apply market insights, rigorous quantitative skills, and regulatory expertise to complex business problems, always seeking to preserve and build our clients’ shareholder value.  We work for senior executives, often the CEO, and maintain long-term client relationships.  Our excellent reputation within the energy industries provides opportunities to work on clients’ most important initiatives, and our blend of analytic and industry expertise enables us to provide exceptional value.
+                    </div>
+                </div>
+            </li>
+            <li><a class="header" id="o">O</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://s3.amazonaws.com/wj-cdn/uploads/71d66c289032a9097f948cd41b06f3e2> Oliver Wyman
+                <p class="types"> Associate Consultant, Analyst consulting, consulting</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant, Analyst consulting </div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Oliver Wyman is a global leader in management consulting. With offices in 50+ cities across 26 countries. Oliver Wyman combines deep industry knowledge with specialized expertise in strategy, operations, risk management, and organization transformation. Our 4,000+ professionals help clients optimize their business, improve their operations and risk profile, and accelerate their organizational performance to seize the most attractive opportunities.   Oliver Wyman’s thought leadership is evident in our agenda-setting books, white papers, research reports, and articles in the business press. To that end, the Oliver Wyman Institute connects the firm with prominent leaders of the academic community for joint research on frontier issues. The firm's Global Risk Center analyzes the increasingly complex risks that are reshaping industries, governments, and societies.   The firm’s capabilities and intellectual capital are enhanced by our deep industry expertise, geographic range, analytical rigor, and hands-on, collaborative approach. Our professionals see what others don't, challenge conventional thinking, and consistently deliver innovative, customized solutions.  We also work side by side with senior executives to accelerate execution through a blend of behavioral and management approaches. As a result, we have a tangible impact on clients’ top and bottom lines.</div>
+                </div>
+            </li><li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/1778553132/operalogo_400x400.jpeg> Opera Solutions
+            <p class="types"> Solutions Analyst, Solutions Associate</p>
+            <p class="types">full-time</p>
+        </a>
+            <div id="panel">
+                <div class="headers"> Job types</div>
+                <div class="jobTypes"> Associate Consultant, Associate Solution Engineer, Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern </div>
+                <br>
+                <div class="headers"> Available Terms</div>
+                <div class="details"> full-time</div>
+                <br>
+                <div class="headers"> Description</div>
+                <div class="details"> Opera Solutions turns
+                    Big Data into Big Profit for the world’s leading companies. Established in
+                    2004, we have today grown to 500+ professionals, with offices in New York,
+                    Jersey City, Boston, San Diego, London, New Delhi, and Shanghai. Opera
+                    is looking to hire consultants to leverage our extensive advanced analytics,
+                    technology, and data management capabilities in delivering powerful business
+                    solutions for leading corporations across various industries. When you come to
+                    work for us, you'll be joining a rapidly growing firm offering exceptional
+                    opportunities for a diverse set of individuals – mathematicians, liberal arts
+                    majors, MBA's and scientists– working on very interesting questions and using
+                    an array of cutting edge approaches. You will have the breadth and the support
+                    to try new and creative avenues to solve problems. The work environment at
+                    Opera Solutions is fluid, challenging and fast-paced, reflecting the diversity
+                    of our clients and their needs. We work in teams and draw on each other’s strengths
+                    to deliver results that really make a difference. Each team member is supported
+                    by the guidance and expertise of the rest of the team. We staff projects
+                    globally, giving consultants the opportunity to work with a global group of the
+                    best and brightest from North America, Europe, and Asia.
+                </div>
+            </div>
+        </li>
+            <li><a class="header" id="p">P</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAsmAAAAJGFiOWY1MmVjLThiNmYtNGI3NS1hMWE0LTUwNDJkYzYyZWEyNw.png> Parthenon Group
+                <p class="types"> Associate Consultant, Associate; Summer Associate</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant, Associate; Summer Associate </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Come meet current Parthenon-EY Associates at our career fair table to learn more about our projects and sectors in the strategy consulting space, our culture and commitment to inclusiveness, and how you can flex your entrepreneurial muscles from day one to make an impact as an intern or fulltime employee. We look forward to meeting you!</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/880830099419000833/XtVbxIzl_400x400.jpg> Putnam Associates, INC.
+                <p class="types"> Associate Consultant Life Science Consutlant (PhD required) business</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Consultant Life Science Consutlant (PhD required) </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Founded in 1988, Putnam Associates has been serving global biopharmaceutical, diagnostics, and medical device clients, along with private equity and venture capital clients, providing world class strategic advice based on sophisticated, robust analytics. Our focus enables us to provide customized, actionable recommendations that draw on robust problem framing, cutting-edge methodologies, deep therapeutic area knowledge, extensive global networks of health care stakeholders, and expert synthesis across scientific, clinical, and business disciplines.
+                        Our consultants have similar professional and educational backgrounds to those at generalist strategy consulting firms but with a significant advantage: 100% of Putnam’s work is dedicated to maximizing the value of the pharmaceutical, biotechnology, diagnostic and device products. We serve clients who market many of the world’s best-known biopharmaceuticals, and who are leveraging the genomics and “big data” revolutions month by month with new breakthrough therapies and higher quality patient care.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAATsAAAAJGIyOWMxNDU5LTQ1YTUtNDkyYS1hNGJkLTQ4MzM5ZmZiYzQ1Mw.png> Putnam Investments
+                <p class="types"> Global Distribution Associate Program, Summer Sales InternshiP, Equity Associate, Fixed Income, Investment Associate, Equity Associate Summer Internship, BUSINESS, FINANCE, BANKING</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Global Distribution Associate Program, Summer Sales InternshiP, Equity Associate, Fixed Income, Investment Associate, Equity Associate Summer Internship </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Founded in 1937, Putnam Investments is a global money management firm with over 75 years of experience helping individuals and institutions pursue their investment goals. Putnam manages assets across equity, fixed income, asset allocation, and alternative strategies. Active, fundamental research, innovation, and risk management drive our approach to investing. Our global presence includes offices in Boston, London, Frankfurt, Tokyo, Singapore, and Sydney, all united by our collaborative culture and singular focus on client objectives. For more information, please visit www.putnam.com.</div>
+                </div>
+            </li>
+            <li><a class="header" id="q">Q</a></li>
+            <li><a class="flip"> <img class="img-circle" src=http://mms.businesswire.com/media/20161003005857/en/547502/5/QuintilesIMS-Logo-Vert-2016.jpg> QuintilesIMS (Amundsen Consulting)
+                <p class="types"> Analyst - Amundsen Consultin, CONSULTANT, BUSINESS, healthcare</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Analyst - Amundsen Consulting </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">Around the world healthcare stakeholders are working to improve real-world patient outcomes through treatment innovations, care provision and access to healthcare. For the information, technology and service solutions they need to drive new insights and approaches, they count on QuintilesIMS. With a global team of 50,000, we harness insights, commercial and scientific depth, and executional expertise to empower clients to achieve some of their most important goals: Improving clinical, scientific and commercial results. Realizing the full potential of innovations. And, ultimately, driving healthcare forward.</div>
+                </div>
+            </li>
+            <li><a class="header" id="r">R</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/539434102818996224/RSuf95V-.png> Racepoint Global
+            </a>
+                <div id="panel">
+                    <div class="headers"> Description</div>
+                    <div class="details"> Big Agency Results. Small Agency Touch. Racepoint Global combines the power of worldwide reach with personal attention. Our clients expect everything to be bigger, better and bolder. They also want access to the brightest minds at all times. We have the necessary DNA to do both. We challenge our clients to do more to stay ahead and demand that they challenge us to be accountable. We drive communications that are strategically sound and strive to forge personal relationships, breakthrough results and lasting impact.</div>
+                </div>
+            </li>
+            <li><a class="header" id="s">S</a></li>
+            <li><a class="flip"><img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAYOAAAAJDI4ZGFmNTY1LTU2MTAtNDkxYi05YWIyLTE3OGNiZjllMDUxNw.png> SAGA Innovations
+                <p class="types"> education, school</p>
+                <p class="types"> No Internships Available, full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes">SAGA Fellow SY18-19 </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> No Internships Available, full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> SAGA Innovations recruits the best and brightest young professionals to work in high-needs urban public schools. SAGA drives the expansion of the nationally recognized innovation of high-dosage, intensive daily tutoring, where tutoring is a part of the regular school day for students as a scheduled class period. We partner with district public schools to provide students the opportunity to work with a qualified, engaging tutor who tailors instruction to the needs of two students at a time. Our mission is to improve student achievement, to improve student and family connection to school, and to bring talent into under-resourced districts by personalizing education.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=http://3qv5lo39ipx92v9slf1b221vdb4.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/Schuler-Scholar-Program-Logo-1.png> Schuler Scholar Program
+                <p class="types"> college education advising, mentor, alumni</p>
+                <p class="types"> full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> We are hiring for two types of positions. One is the Reading Scholar Coach and the other is STEM Scholar Coach position.
+                        AmeriCorps is a network of local, state, and national service programs that connects more than 80,000 Americans each year in intensive service to meet our country’s critical needs in education, public safety, health, community, and the environment. Through AmeriCorps, the Schuler Scholar Program seeks recent college graduates to serve as AmeriCorps Scholar Coaches.
+
+                        Scholar Coaches (SCs) serve a two year commitment and are based at a partnership high school. Service is mainly performed at the assigned school and occasionally at other sites or during college visits. SCs monitor the academic and personal/social development of the Scholars and serve as role models. Coaches work directly with Scholars in one-on-one and in group settings. Each SC will manage and deliver reading programming daily to a caseload of 10-15 Scholars. SCs tailor their tutoring and teaching style to meet the needs of each student. After school, SCs deliver Scholar Training and Enrichment Programs (STEPs) that focus on topics such as: the transition to high school, writing, math, decision making, and the transition to college. Additional SC responsibilities may include but are not limited to: subject specific tutoring with junior and senior Scholars, lead college-style seminars with junior and senior Scholars, design and implement new programming, plan and chaperone exposures (trips to the theatre, ballet, opera, museums), chaperone college visits, assist Scholars with the college and summer college program application process, participate in the Scholar selection process, plan and facilitate summer school programs, and manage the student information database.
+                        SCs receive program specific training throughout the school year. Schuler ensures that SCs feel prepared, confident and supported while working with students and facilitating programs. The Schuler program staff provides ongoing support to SCs as needed. SCs can also take advantage of various professional development opportunities.
+                        For more information about the Schuler Scholar Program, check out our website at www.schulerprogram.org or contact AmeriCorps Program Associate Noemi Larrondo, at NoemiL@schulerprogram.org.
+                    </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        The Schuler Scholar Program is a private, non-profit foundation established in 2001 and based in the northern suburbs of Chicago.  Schuler serves students in 12 high schools located throughout the northern suburbs and the city of Chicago. Schuler currently serves over 900 high school and college Scholars.
+
+                        Mission: The Schuler Scholar Program equips bright, motivated youth with the support they need to gain access to and succeed at highly selective colleges and beyond. Schuler Scholars come from populations that are under-represented on college campuses: Scholars are first-generation college-bound, are students of color or come from low-income families and communities.
+
+                        Goals:   1. To foster the growth of Schuler Scholars as lifelong learners.
+                        2. To provide information, guidance, and college preparatory experiences to help Schuler Scholars matriculate to the best fit college while maximizing financial aid options.
+                        3. To support Schuler Scholars as they persist in their academic studies, personal growth, and professional development.
+
+                        4. To cultivate an engaged network of Schuler alumni, mentors, and volunteers for lifelong connection and support.
+
+                        The Schuler curriculum focuses on factors recognized as critical to academic success, leadership and personal development. Fostering growth in these areas promotes success in high school, college, and beyond. </div>
+                </div>
+            </li>
+            <li><a class="flip"><img class="img-circle" src=https://pbs.twimg.com/profile_images/619608560834510848/H18p6tpG.jpg> Silicon Valley Bank
+                <p class="types"> Associate, business, consulting, finance banking</p>
+                <p class="types"> No Internships Available, full-time Associate Development Program - January 2018 Associate Development Program - July 2018</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Associate Development Program - January 2018 Associate Development Program - July 2018</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> No Internships Available, full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> For nearly three decades, SVB Financial Group and its subsidiaries, including Silicon Valley Bank, have been dedicated to helping entrepreneurs succeed. SVB Financial Group is a financial holding company that serves companies in the technology, life science, cleantech, venture capital, private equity and premium wine industries. Offering diversified financial services through Silicon Valley Bank, SVB Analytics, SVB Capital, and SVB Private Bank, SVB Financial Group provides clients with commercial, investment, international and private banking services. The company also offers funds management, broker-dealer transactions and asset management, as well as the added value of its knowledge and networks worldwide. Headquartered in Santa Clara, Calif., SVB Financial Group (Nasdaq: SIVB) operates through 27 offices in the U.S. and international operations in China, India, Israel and the United Kingdom. More information on the company can be found at www.svb.com.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAV6AAAAJGFhMGE5YWI2LWIzZGQtNGViOC1hODlkLTA2ODc3YmQxODdkMw.png> Simon-Kucher & Partners
+                <p class="types"> Associate Consultant, analyst consultant business consulting</p>
+                <p class="types"> Summer, full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> We are looking for full-time consultants for all 5 of our US offices as well as summer 2018 interns. </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer, full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Over the last 30 years, Simon-Kucher & Partners has helped more than 100 of the Global Fortune 500 companies address their strategic and marketing challenges. We are regarded as the world’s leading pricing advisor and thought leader. We focus on TopLine Power® by helping clients grow their top-line through strategy, pricing, marketing and sales.
+
+                        Globalization is a core element of our goals and strategy. Today we are an international and multilingual team of over 1,000 full-time employees from diverse academic and professional backgrounds in 33 offices across the US, Europe,  Asia Pacific, and South America.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAy1AAAAJGI3YzBlY2FlLTIzZGItNDNiNS05ZDJiLTU3ZDg1ZDE0YjBhNg.png> Spencer Suart
+                <p class="types"> analyst research banking finance industry marketing</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Research Analyst:
+                        Our analysts are active members of client service teams, gathering, synthesizing, and presenting information and data associated with client engagements and market opportunities.
+
+                        At the beginning of each assignment, they assist in the development of the search strategy, including constructing company target lists, researching candidate profiles and matching necessary competencies to executive experience, drawing from internal, external and contracted resources.
+
+                        As assignments progress, they may perform additional research in support of client team activities. Other responsibilities include directed projects to build internal knowledge of industries, companies and executives.
+
+                        Analysts can be included on business development activities and are encouraged to develop in-depth knowledge of given industry sectors and/or functional specialties. This includes gaining awareness of current news and issues, developing a perspective on competitive landscapes, understanding market influences, tracking share performance and explaining relevant trends.</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time </div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Spencer Stuart is a global leader in executive search and the adviser of choice to top companies seeking counsel on senior leadership needs. Our clients include leading multinational corporations, medium-sized businesses, entrepreneurial startups and nonprofit organizations across a variety of industries. Founded in 1956 and still privately owned, Spencer Stuart today has 56 offices in 30 countries. Our global reach, leadership in CEO and senior executive searches, and status as the premier firm for board counsel and recruitment give us unparalleled access to the world’s top executive talent.</div>
+                </div>
+            </li>
+            <li><a  class="header" id="t">T</a></li>
+
+            <li><a class="flip"><img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAA0TAAAAJGE3OGUzMWJmLTZkZjgtNDRmMC1iYWU5LWJmNzBlN2MxZjg2NA.png> Trade Informatics
+                <p class="types"> Associate, business,  analyst investment banking</p>
+                <p class="types"> Winter, Spring, Summer, Fall</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Analyst</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Winter, Spring, Summer, Fall</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        Trade Informatics helps institutional investors retain more of their alpha. We provide our clients the tools and insights to succeed in an increasingly competitive investment environment. We do this through software development, rigorous trade analysis, action-oriented consulting, industry-leading trade reporting, and customized systematic trading.
+                    </div>
+                </div>
+            </li>
+            <li><a class="flip"><img class="img-circle" src=https://media.glassdoor.com/sqll/447678/treacy-and-co-squarelogo-1411488409557.png> Treacy & Company
+                <p class="types"> Associate, business,  analyst investment banking Full-Time Analyst (Class of 2018) Summer Analyst - Internship (Class of 2019)</p>
+                <p class="types">Summer, full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Full-Time Analyst (Class of 2018), Summer Analyst - Internship (Class of 2019)</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer, full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">
+                        Treacy & Company is a strategy-management consulting firm founded by business strategist and former professor at the MIT Sloan School of Management, Dr. Michael Treacy. Treacy & Company's management consulting practice provides strategic insight and support to the top executives of Fortune 500 and similar global corporations on a range of business issues related to growth strategy. 
+                    </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/594128229209767936/70RwIGhR.jpg> Trinity Partners
+                <p class="types"> Business, finance, banking, investment</p>
+                <p class="types"> Summer, spring, winter, fall, full-time time full </p>
+            </a>
+            </li>
+            <li><a  class="header" id="u">U</a></li>
+
+            <li><a class="flip"> <img class="img-circle" src=https://i.forbesimg.com/media/lists/companies/unitedhealth-group_416x416.jpg> UnitedHealth Group
+                <p class="types"> Senior Business Analyst - Consulting Development Program Business, investment banking, finance, healthcare health banking </p>
+                <p class="types"> full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Senior Business Analyst - Consulting Development Program - Eden Prairie, MN
+                        Begin your career at UnitedHealth Group and you’ll get an opportunity to do something extraordinary with your first job out of school: make a real difference. We have modest goals: Help millions of people live healthier lives. Change the landscape of health care forever. Leave the world a better place than we found it. Such aspirations attract a certain type of person. Crazy talented. Brilliant. Compassionate. Driven. To these select few, we offer the global reach, resources and can-do culture of a Fortune 6 company. You’ll find a world of career options fueled by your performance and limited only by imagination. Start here.
+
+                        Here’s the idea. We built focused businesses, inside UnitedHealth Group, organized around one giant objective; make health care work better for everyone. Through our two business platforms, UnitedHealthcare and Optum, we work to improve the health care system and advance the health and well-being of individuals and communities so that they can enjoy better, fuller lives. For you, that means working on high performance teams against sophisticated challenges. It’s a culture of optimism that’s not like any place you’ve ever worked. Many incredible ideas in one incredible company.
+
+                        OptumInsight is part of the family of companies that make UnitedHealth Group one of the leaders across most major segments of the U.S. health care system.
+
+                        OptumInsight is one of the largest and fastest growing health information companies. We specialize in improving the performance of the health system by providing analytics, technology, and consulting services that enable better decisions and results. We integrate workflow solutions that deliver data in real-time, and create actionable insights - processing health information that relates directly to and affects one in four patients in the U.S., one in every three Medicaid dollars and one in every five emergency room visits. And we do it all with every action focused on our shared values of Integrity, Compassion, Relationships, Innovation & Performance.
+
+                        What can YOU do with the right information? At OptumInsight, the possibilities and the impact are limitless. No matter what your role is at OptumInsight, you'll be empowered to ask more questions, develop better solutions, and help make the health care system greater than ever. It's always fresh. It's always exciting. And it's never been more important.
+
+                        The Consulting Development Program, formerly known as the Leadership Acceleration Program (LAP), as part of OptumInsight, is a tailored program for recent college graduates who are interested in developing a consulting career in the Health Care industry. The multi-year includes the following:
+
+                        - Focused professional development including live and computer based training
+                        - Professional networking, executive exposure, and community outreach activities
+                        - A dedicated professional mentor to help guide and shape your career path
+                        - Opportunities to work with seasoned industry professionals
+                        - Exposure to the most complex problems in health care via ""real"" client work
+
+                        Primary Responsibilities:
+
+                        • Working directly with our clients to help determine needs and solve complex business problems by performing the following types of activities:
+                        o Conduct research studies that may include collecting, analyzing, trending and presenting data and recommendations to management
+                        o Assist with requirements analysis and verification
+                        o Document customer/client requirements through clear, unambiguous, concise and effective written and oral communication
+                        o Develop, enhance and maintain planning models, surveys, and benchmarks
+                        o Perform analysis for business process re-engineering opportunities and define, develop and document before and after process flows
+                        o Maintain work papers, work plans, methods and results
+                        o Develop job aids, training material and instructions for team members
+                        o Assist senior team members with project management duties
+                        Required Qualifications:
+                        • Bachelor’s degree and/or currently pursuing a degree from an accredited college/university; coursework to obtain degree must be completed prior to start of employment. Degree must be awarded and verified within 6-8 weeks following the commencement date at your school
+                        • Ability to quickly understand complex business issues and make strategic decisions
+                        • Ability to travel up to 80% of the time as part of the OptumInsight Consulting Team
+                        • Thrive in team-based culture and fast changing environment
+                        • Business acumen & global mindset
+                        • Minimum 3.00 cumulative GPA
+                        • Must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization (F-1 students with practical training and candidates requiring H-1Bs, TNs, etc. will not be considered) F-1 visa holders with Optional Practical Training (OPT) who will require H-1B status, TNs, or current H-1B visa holders will not be considered. H1-B and green card sponsorship is not available for this position
+
+                        Careers with Optum. Here's the idea. We built an entire organization around one giant objective; make health care work better for everyone. So when it comes to how we use the world’s large accumulation of health-related information, or guide health and lifestyle choices or manage pharmacy benefits for millions, our first goal is to leap beyond the status quo and uncover new ways to serve. Optum, part of the UnitedHealth Group family of businesses, brings together some of the greatest minds and most advanced ideas on where health care has to go in order to reach its fullest potential. For you, that means working on high performance teams against sophisticated challenges that matter. Optum, incredible ideas in one incredible company and a singular opportunity to do your life’s best work.(sm)
+
+
+                        Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+
+                        UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment. </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> UnitedHealth Group is a diversified health and well-being company dedicated to helping people live healthier lives and making the health system work better for everyone.
+                        Our businesses touch nearly every aspect of health care, uniquely positioning us to address the most critical health care needs of people around the world. We deploy our core capabilities in clinical care improvement, population health management, health insurance and analytics and health technology in a variety of settings throughout the US and globally. Join us and you’ll soon discover a career here is launching pad for your life’s best work.SM
+                    </div>
+                </div>
+            </li>
+            <li><a class="flip"><img class="img-circle" src=http://c.ymcdn.com/sites/alumni.cityyear.org/resource/resmgr/Logos/UrbanTeachers_logo.jpg> Urban Teachers
+                <p class="types"> education, teaching, teacher</p>
+                <p class="types"> No Internships Available, full-time</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Urban Teachers Resident</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> No Internships Available, full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Urban Teachers is a non-profit teacher preparation and graduate school program in partnership with Johns Hopkins University. </div>
+                </div>
+            </li>
+
+            <li><a id='v' class="header" id="v">V</a></li>
+
+            <li><a class="flip"><img class="img-circle" src=https://yt3.ggpht.com/-R8vzDScMVt4/AAAAAAAAAAI/AAAAAAAAAAA/djCV7AHJQUg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg> Vanguard
+                <p class="types"> Associate, business, consulting, finance, banking</p>
+                <p class="types"> summer</p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Investment Management Development Program, Vanguard Accelerated Development Program, Acceleration into Financial Professional Program, College to Corporate Internship Program</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Vanguard, one of the world's largest global investment management companies, offers rewarding long-term careers in finance, technology, client service, and related financial services fields. The company is widely recognized for providing a comprehensive total rewards package of compensation, benefits, and work-life programs. </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/477160049958084610/m2EEzWtm.jpeg> Venture for America
+                <p class="types">business, finance, investment banking </p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Venture for America 2018 Fellow </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Venture for America is a two-year fellowship program for recent college graduates interested in entrepreneurship and working in a fast-paced, innovative startup environment. VFA Fellows interview with vetted company partners across 18 U.S. cities with emerging startup ecosystems. After securing the right full-time, salaried job, Fellows train for five weeks with world-class business leaders and entrepreneurs to build the skills they’ll need to succeed in a startup environment and as founders. Throughout the fellowship, they learn how to contribute to a high-growth business and gain access to mentorship, ongoing training, and the nationwide VFA community. When Fellows and alumni are ready to build companies of their own, whenever that may be, VFA provides the resources they need to become entrepreneurs.
+                        Our goal is to help the next generation become leaders capable of launching their own companies, creating opportunities for themselves and others, and adding value to their local communities.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://pbs.twimg.com/profile_images/429262030441168896/DcRgDC1Y_400x400.png> Vermont Telephone Company, Inc.
+                <p class="types">  Associate IT Engineer, Software Engineer, Quality Engineer, Software Engineer - Intern, Quality Engineer - Intern, Coding, Technology</p>
+                <p class="types"> full-time </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Customer Advocate/Account Specialist, Wireless Brand Ambassadors, Network Engineer</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> full-time</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> VTel’s Mission: World-Class Technology with Down-Home Service.VTel is a small family-owned telephone company providing landline service to 14 rural Vermont villages, as well as 4G LTE wireless Internet to towns throughout the state, based in Springfield, VT. Some VTel farms and rural homes have received continuous telephone service from when we first began operations in 1890. We provided the phone line that enabled Calvin Coolidge to be sworn in as United States President, at Plymouth Notch, VT, on August 3, 1923. Several team members have been with us for 40 years. We answer our telephone calls on the first ring. We are Vermonters serving Vermonters. Our mission is World-Class Technology with Down-Home Service.
+                        Some folks -- who aren’t yet our customers -- are surprised to learn VTel is proudly part of a U.S. tradition of small rural telephone companies who are also innovators. We were first in Vermont to offer Internet. We were first in Vermont to build gigabit-per-second fiber to homes. We were first with 100 Gig data paths. We expect to soon be first to integrate 4G LTE wireless mobile broadband with Smart Grid, to help make Vermont more green.
+                        Since 1994 we have invested over $100 million of our own capital to upgrade our Vermont network, create local jobs, and build Vermont’s economy. We try to offer the lowest costs in Vermont, with the highest service quality. We take pride in public data showing we typically have the fewest complaints per 1,000 people served, of any carrier in the state.
+                        We also operate a 1,400 mile optical fiber network from Vermont to New York City, Cambridge, MA, Boston, and Montreal, serving some of the most intensive data users and research universities in the northeast.
+                    </div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdTAAAAJDYxMTliM2YxLWMyYjQtNGQ4NC04MWY0LWFiMjQxYzRhZTM5NQ.png> Veson Nautical Corporation
+                <p class="types"> Software Developer, Site Reliability Engineer, Software Developer Intern, Software Test Engineer Intern Technology</p>
+                <p class="types"> Winter, Spring, Summer, Fall </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Software Developer, Site Reliability Engineer, Software Developer Intern, Software Test Engineer Intern</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details">Winter, Spring, Summer, Fall</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">Veson Nautical® is the premier provider of commercial maritime software and services. The company’s integrated software products and services enable the world’s top tier shipping companies to transform the constant stream of information from vessels, the market, and more, into a strategic advantage. The company’s Integrated Maritime Operations System (IMOS) is fast becoming the de facto standard in the industry. Veslink® sets a new standard for the collection, analysis, and sharing of maritime data. Together, IMOS and Veslink propel maritime commerce. With a focus on constant innovation and customer service, Veson Nautical serves over 8,000 users at 250 prominent maritime organizations worldwide.</div>
+                </div>
+            </li>
+            <li><a class="flip"> <img class="img-circle" src=https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAARHAAAAJDBhNmFlYmNmLWI3ODEtNDZlZi05MzM2LTJmNGQxYzYwOGYwMg.png> Volition Capital LLC
+                <p class="types"> Growth Equity Analyst, Growth Equity Summer Analyst, business, finance</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Growth Equity Analyst, Growth Equity Summer Analyst </div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details">Volition Capital is a growth equity firm that principally invests in high potential, founder-owned companies across different technology sectors.  Our firm specializes in partnering with founders to help them achieve their fullest aspirations for their business.  One form of partnership comes through investing capital for the purposes of accelerated growth, strategic acquisitions, and shareholder liquidity.  Another form of partnership comes simply from bringing all of our resources to bear to help our founders be successful –  we call this  "Capital +."  Our team has 75 years of collective investing experience helping dozens of companies navigate to successful IPOs and acquisitions.  Assets invested in the existing portfolio of 22 companies are approximately $300 million.  Much of our success has come from investing in capital efficient technology companies in sectors such as: software, Internet, information services, and tech-enabled services.  We strongly gravitate towards high growth companies that have demonstrated traction in the market and are looking for a partner to help them achieve clear market leadership.</div>
+                </div>
+            </li>
+            <li><a class="header" id="w">W</a></li>
+            <li><a class="flip"> <img class="img-circle" src=https://s-media-cache-ak0.pinimg.com/avatars/wayfair_1479924676_280.jpg> Wayfair
+                <p class="types"> Business Analyst, Internal Consulting Analyst, Business Intelligence Analyst, Software Engineering</p>
+                <p class="types"> Summer </p>
+            </a>
+                <div id="panel">
+                    <div class="headers"> Job types</div>
+                    <div class="jobTypes"> Business Analyst, Internal Consulting Analyst, Business Intelligence Analyst, Software Engineering</div>
+                    <br>
+                    <div class="headers"> Available Terms</div>
+                    <div class="details"> Summer</div>
+                    <br>
+                    <div class="headers"> Description</div>
+                    <div class="details"> Wayfair Inc. offers an extensive selection of home furnishings and décor across all styles and price points.Wayfair generated $3.4 billion in net revenue for full year 2016. Headquartered in Boston, Massachusetts with operations throughout North America and Europe, the company employs more than 5,600 people.</div>
+                </div>
+            </li>
+        </ul>
+    </h3>
+</div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+
+    $(document).ready(function(){
+        $(".flip").click(function(e){
+            $(e.target).parent().find("#panel").slideToggle("fastest");
+        });
+    });
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $(".myBtn2").click(function(){
+            $("#panel").slideToggle("fastest");
+        });
+    });
+</script>
+</html>

@@ -1,0 +1,296 @@
+      body, html {
+        /* background-image: url(https://4.bp.blogspot.com/-dNDD1u5imm0/WQd1e6R4e0I/AAAAAAACLRo/k4jWiivPB9YvDeqCtAwhXwOOCU4aHuO_ACPcB/s0/Natural_Landscape_Alberta_Canada_4k.jpg);*/
+
+        background-color: black;
+        width: 100%;
+        height: 100%;
+        margin-top: 0%;
+        margin-left: 0px;
+        margin-right: 0px;
+        /*background-attachment: fixed;*/
+        /*background-position: absolute;*/
+        /*background-repeat: no-repeat;*/
+        /*background-size: cover;*/
+    }
+  
+
+  h2 {
+        background-color: grey;
+        width: 50%;
+        position:relative;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        padding: 4%;
+        margin-bottom: -.75%;
+        border: 3%;
+        /* background:rgba(0,0,0,0.8);*/
+        background-color: #333;
+    }
+    h3 {
+        width: 50%;
+        z-index: 300;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        text-align: left;
+        padding: 4%;
+        border: 3%;
+        /* background:rgba(0,0,0,0.6);*/
+        background-color: #333;
+    }
+    #wrapper{
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:10%;
+
+        width:1700px;
+    }
+
+    #myInputCN {
+        background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+        background-position: 10px 12px; /* Position the search icon */
+        background-repeat: no-repeat; /* Do not repeat the icon image */
+        width: 20%; /* Full-width */
+        font-size: 50%; /* Increase font-size */
+        padding: 2% 3% 2% 5%; /* Add some padding */
+        border: 1px solid #ddd; /* Add a grey border */
+        margin-bottom: 12px; /* Add some space below the input */
+        margin-top: 12px;
+        margin: 12px 10px 12px 10px;
+        display: inline-block;
+        margin-left: -20px;
+        font-family: Georgian;
+        font-weight: lighter;
+        max-height: 5%;
+        max-width: 30%
+    }
+
+    #myInputJT {
+        background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+        background-position: 10px 12px; /* Position the search icon */
+        background-repeat: no-repeat; /* Do not repeat the icon image */
+        width: 20%; /* Full-width */
+        font-size: 50%; /* Increase font-size */
+        padding: 2% 3% 2% 5%; /* Add some padding */
+        border: 1px solid #ddd; /* Add a grey border */
+        margin-bottom: 12px; /* Add some space below the input */
+        margin-top: 12px;
+        margin: 12px 10px 12px 10px;
+        display: inline-block;
+        font-family: Georgian;
+        font-weight: lighter;
+        max-height: 5%;
+        max-width: 30%
+    }
+
+    #myInputTA {
+        background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+        background-position: 10px 12px; /* Position the search icon */
+        background-repeat: no-repeat; /* Do not repeat the icon image */
+        width: 20%; /* Full-width */
+        font-size: 50%; /* Increase font-size */
+        padding: 2% 3% 2% 5%; /* Add some padding */
+        border: 1px solid #ddd; /* Add a grey border */
+        margin-bottom: 12px; /* Add some space below the input */
+        margin-top: 12px;
+        margin: 12px 10px 12px 10px;
+        display: inline-block;
+        font-family: Georgian;
+        font-weight: lighter;
+        margin-right: -20px;
+        max-height: 5%;
+        max-width: 30%
+    }
+
+    #myUL {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    #myUL li a {
+        border: 1px solid #ddd; /* Add a border to all links */
+        margin-top: -1px; /* Prevent double borders */
+        background-color: #f6f6f6; /* Grey background color */
+        padding: 2%; /* Add some padding */
+        text-decoration: none; /* Remove default text underline */
+        font-size: 17px; /* Increase the font-size */
+        color: black; /* Add a black text color */
+        display: block;
+        font-family: Georgia;
+        font-weight: lighter;
+        cursor: pointer;
+    }
+
+    #myUL li a.header {
+        background-color: #e2e2e2; /* Add a darker background color for headers */
+        cursor: default; /* Change cursor style */
+    }
+
+    #myUL li a:hover:not(.header) {
+        background-color: #eee; /* Add a hover effect to all links, except for headers */
+    }
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        height: 7%;
+        width: 7%;
+    }
+
+    img.head {
+        max-width: 100%;
+        max-height: 100%;
+        height: 10%;
+        width: 10%;
+        padding: 2%;
+        float: left;
+    }
+
+    .headlogo {
+        font-size: 140%;
+        font-weight: lighter;
+
+        text-align: left;
+        margin-left: 5%;
+        margin-top: 1%;
+
+        color: #00693e;
+    }
+
+    .headwords {
+        font-size: 150%;
+        float: center;
+        margin-top: -4%;
+        color: white;
+    }
+
+    .img-circle {
+        border-radius: 50%;
+    }
+
+    .img-circle {
+        border-radius: 50%;
+    }
+
+    .navbar {
+        overflow: hidden;
+        background-color: #333;
+        margin: 0;
+        position:fixed;
+        position relative;
+        z-index: 600;
+        padding: 0;
+        top:0;
+        font-size: 170%;
+        list-style-type: none;
+        text-align: center;
+        width: 100%;
+        max-width: 100%;
+        max-height: 20%;
+        cursor: default;
+    }
+
+    .bnavbar {
+        overflow: hidden;
+        background-color: #333;
+        position: fixed;
+        z-index: 500;
+        bottom: 0;
+        width: 100%;
+
+        max-height: 5%;
+        max-width: 100%;
+    }
+
+    .bnavbar a {
+        z-index: 500;
+        display: inline-block;
+        color: #f2f2f2;
+        padding: 16px 18px;
+        text-decoration: none;
+        font-size: calc(10px + .5vw);
+    }
+
+    .flip {
+        text-align: left;
+        border: 1px solid #ddd; /* Add a border to all links */
+        margin-top: -1px; /* Prevent double borders */
+        background-color: #f6f6f6; /* Grey background color */
+        padding: 20px; /* Add some padding */
+        text-decoration: none; /* Remove default text underline */
+        font-size: 18px; /* Increase the font-size */
+        color: black; /* Add a black text color */
+        display: block;
+        font-family: Georgia;
+        font-weight: lighter;
+    }
+
+    #panel {
+        padding: 20px;
+        background-color: #333;
+        display: none;
+        color: black;
+        font-family: Georgia;
+        font-weight: lighter;
+        font-size: 80%;
+    }
+
+    .types {
+        display: none;
+    }
+
+    .jobTypes {
+        background-color: #e2e2e2;
+        padding: 20px;
+    }
+
+    .details {
+        background-color: #e2e2e2;
+        padding: 20px;
+    }
+
+    .headers {
+        background-color: black;
+        text-align: left;
+        color: white;
+        padding: 1%;
+        font-size: 105%;
+    }
+
+    #myBtn {
+        display: none;
+        position: fixed;
+        bottom: 20%;
+        right: 2%;
+        z-index: 99;
+        border: none;
+        outline: none;
+        background-color: red;
+        color: white;
+        cursor: pointer;
+        padding: 2%;
+        border-radius: 20px;
+    }
+
+    #myBtn:hover {
+        background-color: grey;
+    }
+
+    .button {
+        height: 5%;
+        width: 5%;
+    }
+
+    .txt {
+        cursor: default;
+    }
+
+    .left {
+        float: left;
+    }
+
+    .credit {
+        float: right;
+    }
